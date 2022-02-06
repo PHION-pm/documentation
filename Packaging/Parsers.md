@@ -1,3 +1,5 @@
+# Parser
+
 Since our packaging files will have a set structure, we would also require a parser to read such files and then add them to PHION rice list or in other words, extract it.
 
 The `phion.parser` module will provide such functionality. It would have a separate GUI as well CLI driven layouts. Running arguments such as 

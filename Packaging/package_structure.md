@@ -1,4 +1,5 @@
-	
+# Package Structure
+
 Phion will be using a custom extension called `.phkg` which stores all the files necessary for your rice. 
 Phion package will contain wallpapers, dot configuration folders and other notes for the user to use or scripts as well.	
 To see how PHION handles these packages see [Parsers](Parsers.md)

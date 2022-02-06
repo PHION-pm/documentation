@@ -1,3 +1,4 @@
+# Introduction
 
 Phion is an all-in-one rice manager. By using this program, you can easily create, store, manage, install, and even share your rice packages.
 
