@@ -1,11 +1,14 @@
-name: Deploy to GitHub pages
+name: Build/Test/Deploy
 on:
   push:
-    branches: [master]
+    branches-ignore:
+      - gh-pages
+  workflow_dispatch:
+  pull_request:
 jobs:
   build:
+    name: Build and Deploy
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/setup-node@v2-beta
         with:
