@@ -2,6 +2,7 @@
 	"devDependencies": {
 		"vuepress": "^1.9.7",
 		"vuepress-plugin-auto-sidebar": "^2.3.2",
+		"vuepress-theme-succinct": "^1.7.2",
 		"wordpress": "^1.4.1"
 	},
 	"scripts": {
