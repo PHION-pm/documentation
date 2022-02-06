@@ -13,7 +13,7 @@ jobs:
     - name: Generate static vuepress files
       uses: actions/setup-node@v1
       with:
-        node-version: '17.x'
+        node-version: '16'
     - run: npm ci
     - run: npm run build
 
