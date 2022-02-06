@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHION-pm/documentation.git"
+ },
+ "scripts": {
+  "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev",
+  "build": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress build"
+}
+
+}
