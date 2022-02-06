@@ -2,6 +2,7 @@ module.exports = {
   title: "PHION",
   description: "Documentation for PHION Rice Package Manager",
   themeConfig: {
+    smoothScroll: true,
     plugins: [],
     nav: [
       { text: "Home", link: "/" },
