@@ -1,14 +1,16 @@
 {
 	"devDependencies": {
-		"vuepress": "^1.9.7"
+		"vuepress": "^1.9.7",
+		"vuepress-plugin-auto-sidebar": "^2.3.2",
+		"wordpress": "^1.4.1"
 	},
 	"scripts": {
-		"dev": "vuepress dev",
+		"dev": "vuepress dev --temp .temp",
 		"build": "vuepress build"
 	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/PHION-pm/documentation.git"
-	 },
-	 "homepage": "https://phion-pm.github.io/documentation/"
+	},
+	"homepage": "https://phion-pm.github.io/documentation/"
 }

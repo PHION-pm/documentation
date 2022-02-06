@@ -20,7 +20,7 @@ Extraction includes extracting the files to the `phion/rices` directory. The fol
 - If somehow, the `.phkg` has invalid headers or the script is not able to extract, then it will give show the required error as well.
 
 ### Verification
-Before updating the database we need to make sure that the structure of the parser matches that of the [boilerplate  `.phkg`](Package Structure). This includes checking each for each file, searching for redundant and missing files, etc. 
+Before updating the database we need to make sure that the structure of the parser matches that of the [boilerplate  `.phkg`](package_structure.md). This includes checking each for each file, searching for redundant and missing files, etc. 
 The next sub-step would be to try and read the PHION config file (`.phn`). This would be a pickle dump and so, would be handled by the pickle module. More about this config file will be explained in another section.
 Error cases:
 - The `.phn` file would be read first. If this file turns out to be empty or corrupted (commonly by editing it in a text editor) then the rice will not be added.
@@ -30,10 +30,4 @@ Error cases:
 
 ### Updation
 This process is fairly straightforward. After the package's integrity is verified, we can then add it to our collection's database. The metadata for the package will be read from the config file and then added to the data tables accordingly.
-
-
-
-
-
-
 
