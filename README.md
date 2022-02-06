@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /
+heroImage: assets/main_logo2x.png
 heroText: PHION RPM Documentation
 actionText: Getting Started→
 actionLink: introduction.md
