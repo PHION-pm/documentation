@@ -5,7 +5,8 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Download", link: "https://github.com/PHION-pm/cli/releases" },
-      { text: "Github", link: "https://github.com/PHION-pm/" },
+      { text: "Github", link: "https://github.com/PHION-pm" },
     ],
   },
+
 };
