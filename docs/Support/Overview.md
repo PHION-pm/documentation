@@ -25,3 +25,18 @@ For programs the list goes like this:
 - GTK Themes
 
 Once a boilerplate for the scripts comes out explaining what they need to do, feel free to submit an issue and pull request for support for your favorite window manager and program.
+
+## macOS
+
+Ahh yes, macOS. This is complicated territory. Firstly, as far as I know, there are only so many third-party window managers for macOS. I have had macOS as a daily driver quite a while but never looked into macOS specific window managers mainly because of complexity of installation.
+
+\*While we can plan on having packages for yabai and all, but creating scripts for automatic installation can get problematic, mainly because of lack of knowledge and interest. I don't own a mac right now, nor do I plan on getting one anytime soon. However, contributed to, PHION will also feature packages for UNIX based rices.
+
+## Windows
+
+Nope, not gonna happen anytime soon :D
+
+<br><br>
+
+---
+\* This statement was from me and not on behalf of anyone else.

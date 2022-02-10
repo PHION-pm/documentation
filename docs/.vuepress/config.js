@@ -24,6 +24,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 1,
         children: [["Introduction.md", "Introduction"]],
+        children: [["Installation.md", "Installation"]],
       },
       {
         title: "Packaging",
