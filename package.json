@@ -6,8 +6,8 @@
 		"wordpress": "^1.4.1"
 	},
 	"scripts": {
-		"dev": "vuepress dev --temp .temp",
-		"build": "vuepress build"
+		"dev": "vuepress dev docs --temp .temp",
+		"build": "vuepress build docs"
 	},
 	"repository": {
 		"type": "git",
