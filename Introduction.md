@@ -1,16 +1,16 @@
 # Introduction
 
-Phion is an all-in-one rice manager. By using this program, you can easily create, store, manage, install, and even share your rice packages.
+PHION is an all-in-one rice manager. By using this program, you can easily create, store, manage, install, and even share your rice packages.
 
-The main motivation behind this project was that I've had issues with managing a lot of dots and configurations. Keeping them on Github is okay and gets the job done (somewhat) but copy pasting configs becomes a repetitive task. Phion aims at easing that monotonous process. Phion will allow you to switch between dots way more easily and manage them in a way more organized manner.
+The main motivation behind this project was that I've had issues with managing a lot of dots and configurations. Keeping them on GitHub is okay and gets the job done (somewhat) but copy pasting configs becomes a repetitive task. PHION aims at easing that monotonous process. PHION will allow you to switch between dots way more easily and manage them in a way more organized manner.
 
-To see what WMs and programs are going to be supported check out [Support](Support/Overview.md)
+To see what Window Managers and programs are going to be supported check out [Support](Support/Overview.md)
 
 I have broken down various its various functions into multiple segments.
 
 - ## Create
 
-	While starting out with ricing, it may as well be a daunting task. Looking at documentations and configs may overwhelm people. If all a user wants is to change a few keybinds, border colors, wallpaper, accents and terminal colors, PHION can be quite useful for this purpose as it can be used to generate basic configurations, similar to how `pywal` or `wal` works.
+	While starting out with ricing, it may as well be a daunting task. Looking at documentations and configs may overwhelm people. If all a user wants is to change a few key bindings, border colors, wallpaper, accents and terminal colors, PHION can be quite useful for this purpose as it can be used to generate basic configurations, similar to how `pywal` or `wal` works.
 
 	PHION doesn't discourage people from diving into documentations or advanced stuff. Mainly because of its simplicity. PHION will only provide the most basic configuration options. Somewhat like a quick template. In order to customize it further the user has to dive deeper into ricing. 
 
@@ -28,7 +28,7 @@ I have broken down various its various functions into multiple segments.
 
 - ## Share
 
-	Since `.phkg` is one single package, you can easily share it other people without having to link your Github Repositories or creating any symlinks or anything. 
+	Since `.phkg` is one single package, you can easily share it other people without having to link your GitHub Repositories or creating any symbolic links or anything. 
 
 	### Plans for Future
 

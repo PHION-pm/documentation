@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "3381c9f362765294",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2896fa6ad80875e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Packaging/config.md",
+            "mode": "source"
+          }
+        },
+        "group": "350014558488b97e"
+      },
+      {
+        "id": "ae9896f43138acba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Packaging/config.md",
+            "mode": "preview"
+          }
+        },
+        "group": "350014558488b97e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47652cdb340af983",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ff37ed42bb5810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f6bf5f36ea830f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59e2f5d9f6320e89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 177.5
+  },
+  "right": {
+    "id": "4cb436c28b89e466",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4141cb7ac5e9b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5527baa064c1c93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Packaging/config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2896fa6ad80875e",
+  "lastOpenFiles": [
+    "Packaging/config.md",
+    "Packaging/Parsers.md",
+    "Packaging/package_structure.md",
+    "Support/Overview.md",
+    "node_modules/repeat-string/README.md",
+    "Installation.md",
+    "Introduction.md"
+  ]
+}
